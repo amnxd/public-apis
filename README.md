@@ -1,7 +1,6 @@
 # Try Public APIs for free
 Explore popular APIs and see them work in Postman.
 <br >
-
 <p>
     <a href="https://apilayer.com">
         <div>
